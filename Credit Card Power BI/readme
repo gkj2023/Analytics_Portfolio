@@ -1,0 +1,11 @@
+Developed a sophisticated credit card dashboard in Power BI for real-time performance monitoring and trend analysis.
+Managed data preparation and database integration by creating CSV files and SQL tables, and importing into PostgreSQL.
+Utilized DAX queries for data processing to enhance dashboard functionality.
+Employed weekly dataset refreshes in PostgreSQL and Power BI for dynamic dashboard updates.
+
+Skills/Tools Utilized:
+Power BI
+PostgreSQL
+DAX queries
+SQL
+CSV Data Handling
