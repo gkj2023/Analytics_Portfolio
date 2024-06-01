@@ -57,9 +57,7 @@ Throughout these projects, I have demonstrated proficiency in the following area
 - **Statistical Analysis**: Utilizing Python and R for statistical computations and visualizations.
 - **Software & Tools**: Proficient in Python, R, MATLAB, and associated data science libraries and frameworks.
 
-## Contact Information
-- **Name**: Gaurav Kumar Jha
-- **LinkedIn**: www.linkedin.com/in/gauravjha2020
+
 - **Email**: jhagaurav97@gmail.com
 
 I invite you to explore my projects and reach out if you have any questions or opportunities that align with my expertise. Thank you for considering my portfolio.
