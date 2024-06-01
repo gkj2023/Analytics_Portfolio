@@ -1,0 +1,14 @@
+Project Title: Annual Sales Analysis for Sparsh Store - 2023
+
+Objective:
+This project aims to provide a comprehensive annual sales report for 2023, enabling Vrinda Store to understand customer demographics and demand trends to strategize for 2024.
+
+Data Preparation:
+
+Conducted thorough data cleaning to ensure quality and consistency.
+Addressed null values and standardized data types across necessary columns.
+
+Tools & Techniques Used:
+
+Excel: Leveraged the power of pivot tables to create dynamic, interactive charts.
+Added slicers to enhance dashboard interactivity, allowing users to filter data seamlessly.
